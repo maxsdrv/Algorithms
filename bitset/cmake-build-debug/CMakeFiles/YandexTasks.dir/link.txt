@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/YandexTasks.dir/main.cpp.o  -o YandexTasks 
