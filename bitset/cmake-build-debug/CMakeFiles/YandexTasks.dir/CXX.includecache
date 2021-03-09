@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/maxim/ProjectC++/Algorithms/YandexTasks/main.cpp
+D:/ms.sidorov.project/yandex_task/Algorithms/bitset/main.cpp
 iostream
 -
 fstream
+-
+string
+-
+vector
 -
 

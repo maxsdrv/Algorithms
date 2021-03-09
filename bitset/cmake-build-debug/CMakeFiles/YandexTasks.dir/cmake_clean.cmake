@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/YandexTasks.dir/main.cpp.o"
-  "YandexTasks"
+  "CMakeFiles/YandexTasks.dir/main.cpp.obj"
+  "YandexTasks.exe"
+  "YandexTasks.exe.manifest"
   "YandexTasks.pdb"
+  "libYandexTasks.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

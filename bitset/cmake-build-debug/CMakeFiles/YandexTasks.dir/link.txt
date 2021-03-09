@@ -1,1 +1,3 @@
-/usr/bin/c++  -g   CMakeFiles/YandexTasks.dir/main.cpp.o  -o YandexTasks 
+"D:\ms.sidorov.project\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\YandexTasks.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\YandexTasks.dir/objects.a @CMakeFiles\YandexTasks.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\YandexTasks.dir/objects.a -Wl,--no-whole-archive  -o YandexTasks.exe -Wl,--out-implib,libYandexTasks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\YandexTasks.dir\linklibs.rsp

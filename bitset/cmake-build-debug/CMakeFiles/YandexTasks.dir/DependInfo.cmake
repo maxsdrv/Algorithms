@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/maxim/ProjectC++/Algorithms/YandexTasks/main.cpp" "/home/maxim/ProjectC++/Algorithms/YandexTasks/cmake-build-debug/CMakeFiles/YandexTasks.dir/main.cpp.o"
+  "D:/ms.sidorov.project/yandex_task/Algorithms/bitset/main.cpp" "D:/ms.sidorov.project/yandex_task/Algorithms/bitset/cmake-build-debug/CMakeFiles/YandexTasks.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
